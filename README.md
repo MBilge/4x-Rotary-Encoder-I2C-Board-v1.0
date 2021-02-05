@@ -1,1 +1,2 @@
-# 4x Rotary Encoder Develepment Board v1.1
+# 4x Rotary Encoder Develepment Board v1.0
+
